@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allsphere.com.br/sitemap.xml
