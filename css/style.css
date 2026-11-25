@@ -220,6 +220,22 @@
 
   .why { padding: 1.5rem; border-top: 3px solid var(--teal); background: var(--surface); border-radius: 0 0 var(--radius) var(--radius); border-inline: 1px solid var(--border); border-bottom: 1px solid var(--border); }
   .why p { color: var(--text-muted); margin-top: .5rem; font-size: .98rem; }
+ 
+   /* ========================================= */
+   /* CERTIFICAÇÕES MULTICLOUD */
+   /* ========================================= */  
+   .cert-card {
+       text-align: center;
+   }
+   .cert-badge {
+       width: 90px;
+       height: auto;
+       margin: 0 auto 12px auto;
+   }
+   #certificacoes .why-grid {
+       margin-bottom: 50px;
+   }
+ 
   .note { margin-top: 2rem; padding: 1.25rem 1.5rem; border-left: 4px solid var(--teal); background: var(--glow); border-radius: 0 1rem 1rem 0; }
 
   .faq { display: grid; gap: .75rem; max-width: 48rem; }
